@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AdApp</string>
+    <string name="enter_the_text_here">enter the text here</string>
+    <string name="go">Go</string>
+</resources>

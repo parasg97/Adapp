@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "605820643129",
+    "firebase_url": "https://adapp-a89ea.firebaseio.com",
+    "project_id": "adapp-a89ea",
+    "storage_bucket": "adapp-a89ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605820643129:android:51ddc8e8f8963f0c",
+        "android_client_info": {
+          "package_name": "com.persi.adapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605820643129-qbt8omvjsen5f9s9hcn3jtsqeqt9j8cn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC3lK3xAcTM_drlRPLdJHbV6eInmGjzDo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
