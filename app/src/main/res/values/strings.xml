@@ -2,4 +2,9 @@
     <string name="app_name">AdApp</string>
     <string name="enter_the_text_here">enter the text here</string>
     <string name="go">Go</string>
+    <string name="interstitial_add">Interstitial add</string>
+    <string name="banner_add">Banner Add</string>
+    <string name="interstitial">Interstitial</string>
+    <string name="show_add">show add</string>
+    <string name="native_add">Native add</string>
 </resources>
