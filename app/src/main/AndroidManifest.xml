@@ -20,7 +20,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".InterstitialActivity" />
-        <activity android:name=".NativeActivity"></activity>
+        <activity android:name=".NativeActivity" />
+        <activity android:name=".RewardActivity"></activity>
     </application>
 
 </manifest>
