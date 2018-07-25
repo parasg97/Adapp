@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         MobileAds.initialize(this, APP_ID);//initialized should be called only once when app is created
-        // TODO: 7/23/2018 add adsize and addunit id programmatically
+
         mAdView = findViewById(R.id.main_adView);
        genrateAd();
     }
